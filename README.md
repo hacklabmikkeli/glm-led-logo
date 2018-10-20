@@ -4,4 +4,6 @@
 
 **For Hacktoberfest 2018 contributors:** Please hack our led sign some nice animation!
 
+20 WS2812 RGB Leds. One sign.
+
 Follow us at [Game Lab Mikkeli website](https://gamelabmikkeli.fi) & [@gamelabmikkeli at Instagram](https://www.instagram.com/gamelabmikkeli/)

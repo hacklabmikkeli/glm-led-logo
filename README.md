@@ -6,4 +6,6 @@
 
 20 WS2812 RGB Leds. One sign.
 
+Game Lab Mikkeli is game developement community for local gamers and game enthusiasts.
+
 Follow us at [Game Lab Mikkeli website](https://gamelabmikkeli.fi) & [@gamelabmikkeli at Instagram](https://www.instagram.com/gamelabmikkeli/)

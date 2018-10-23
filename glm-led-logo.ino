@@ -3,9 +3,10 @@
 #define PIN 3
 
 // Parameter 1 = number of pixels in strip - LED valojen kpl määrä
-// Parameter 2 = pin number
+// Parameter 2 = pin number - Digitaalisen pinnin numero, mihin ledien signaali on liitetty
 // Parameter 3 = pixel type flags, add together as needed:
 //   NEO_KHZ800  800 KHz bitstream (most NeoPixel products w/WS2812 LEDs)
+// esim 6 lediä ja portti 3: (6, 3, NEO_GRB + NEO_KHZ800)
 Adafruit_NeoPixel strip = Adafruit_NeoPixel(20, PIN, NEO_GRB + NEO_KHZ800);
 
 void setup() {

@@ -2,7 +2,7 @@
 
 #define PIN 3
 
-// Parameter 1 = number of pixels in strip
+// Parameter 1 = number of pixels in strip - LED valojen kpl määrä
 // Parameter 2 = pin number
 // Parameter 3 = pixel type flags, add together as needed:
 //   NEO_KHZ800  800 KHz bitstream (most NeoPixel products w/WS2812 LEDs)
